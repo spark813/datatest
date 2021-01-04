@@ -6,8 +6,6 @@ comments: true
 tags: 自动化测试
 ---
 
-## selenium常用代码块
-[toc]
 ### Selenium环境搭建
 - Client
     - Python（IDE：Visual studio Code，安装Python插件）
