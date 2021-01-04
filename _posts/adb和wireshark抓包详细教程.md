@@ -1,6 +1,11 @@
-adb和wireshark抓包详细教程
+---
+layout: post
+title:  "adb和wireshark抓包详细教程"
+author: "QQFH"
+comments: true
+tags: 测试工具
+---
 
-[toc]
 
 ## 第一章 简介
 
