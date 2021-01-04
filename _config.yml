@@ -1,6 +1,6 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          DataTest
+description:    "个人博客"
 baseurl:        "/"
 url:            "https://spark813.github.io"
 
@@ -9,9 +9,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         QQFH
+  url:          https://datatest.org
+  email:        ljh_132s@qq.com
 
 # Build settings
 markdown:       kramdown
