@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "selenium+python常用代码块"
-author: "数字"
-comments: true
+author: "QQFH"
+comments: false
 tags: 自动化测试
 ---
 
