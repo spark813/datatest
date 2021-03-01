@@ -1,16 +1,16 @@
 # Site settings
-title:          DataTest
+title:          TestOMG
 description:    "个人博客"
 baseurl:        "/"
-url:            "https://spark813.github.io"
+url:            "https://testomg.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         QQFH
-  url:          https://datatest.org
+  name:         TestOMG
+  url:          https://testomg.com
   email:        ljh_132s@qq.com
 
 # Build settings
