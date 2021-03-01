@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "adb和wireshark抓包详细教程"
-author: "QQFH"
-comments: false
+author: "testomg"
+comments: true
 tags: 测试工具
 ---
 
