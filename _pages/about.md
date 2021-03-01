@@ -13,9 +13,13 @@ permalink: /about/
 
 
 
+一个普通且位于深圳的测试工程师。
+
+
+
 ## 友情链接
 
- [杜赛的个人网站](https://www.dusaiphoto.com/)
- [Jacky的编程空间](https://jackypy.xyz/)
- [Frost's Blog](https://frostming.com/)
- [泽恩小栈](https://silenzen.top/)
+-  [杜赛的个人网站](https://www.dusaiphoto.com/)
+-  [Jacky的编程空间](https://jackypy.xyz/)
+-  [Frost's Blog](https://frostming.com/)
+-  [泽恩小栈](https://silenzen.top/)
