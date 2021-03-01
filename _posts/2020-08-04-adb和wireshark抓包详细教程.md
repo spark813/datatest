@@ -2,7 +2,7 @@
 layout: post
 title:  "adb和wireshark抓包详细教程"
 author: "testomg"
-comments: true
+comments: false
 tags: 测试工具
 ---
 

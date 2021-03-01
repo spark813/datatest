@@ -1,5 +1,5 @@
 # Site settings
-title:          TestOMG
+title:          Testomg
 description:    "个人博客"
 baseurl:        "/"
 url:            "https://testomg.github.io"
@@ -9,7 +9,7 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         TestOMG
+  name:         Testomg
   url:          https://testomg.com
   email:        ljh_132s@qq.com
 
